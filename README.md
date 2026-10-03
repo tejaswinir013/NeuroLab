@@ -2,9 +2,9 @@
 
 A browser-based platform for building and running cognitive science experiments with millisecond-accurate timing, no coding required.
 
-**Live demo:** https://YOUR-APP.vercel.app
-**Backend API:** https://YOUR-API.onrender.com
-**Repo:** https://github.com/YOUR_USERNAME/NeuroLab
+**Live demo:** https://neuro-lab-bice-three.vercel.app
+**Backend API:** https://neurolab-2.onrender.com/
+**Repo:** https://github.com/tejaswinir013/NeuroLab
 
 > The backend runs on a free tier and may take up to a minute to wake up on the first request.
 
